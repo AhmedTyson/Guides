@@ -1,5 +1,4 @@
-
-## ✅ **إزاي تعمل CV صح؟ **
+## ✅ **إزاي تعمل CV صح؟**
 
 ---
 
@@ -8,16 +7,11 @@
 ابدأ باستخدام موقع جاهز يسهل عليك ترتيب الـ CV:
 
 - 📌 الموقع: [flowcv.com](https://flowcv.com/)
-    
 - اختار **Classic template - Black & White** (شكله بسيط واحترافي).
-    
 - تقدر تستخدم خاصية **Drag & Drop** علشان تضيف أو ترتب الـ sections بسهولة.
-    
 - الموقع مجاني تقدر تعدل في نفس الـ document من غير حدود.
-    
 - ⚠️ **ملاحظة مهمة:**  
     لما تضيف الـ date لأي **project** أو **experience**، خليه في نفس السطر بتاع العنوان (headline) ومتستخدمش الـ drag & drop section الخاص بالتاريخ لوحده.
-    
 
 ---
 
@@ -26,135 +20,79 @@
 بعد ما تضيف البيانات بتاعتك على الموقع وتخلص الـ sections القديمة أو الجديدة:
 
 1. ابعت الـ محتوى بتاعك لـ ChatGPT.
-    
 2. استخدم الـ prompt الجاهز ده علشان يساعدك تنظم الكلام بأسلوب احترافي:
-    
-
----
 
 #### 🎯 **CV Creation Prompt (تنسيق احترافي ومنظم)**
 
 ### CV Creation Prompt (Professional Format & Structure)
 
-> **Prompt:**
+> **Prompt:**  
+> I want you to generate a clean, professional CV with the following specifications:  
 > 
-> I want you to generate a clean, professional CV with the following specifications:
+> ### 1. Structure & Style  
+> - Use a clear, well-organized layout.  
+> - Start with personal and contact information, followed by summary, projects, education, skills, languages, certificates, and achievements.  
+> - Use bullet points for detailed sections and keep the tone formal, concise, and achievement-oriented.  
 > 
-> ### 1. Structure & Style
+> ### 2. Required Sections  
+> **Header:**  
+> - Full Name  
+> - Email  
+> - Location (City, Country)  
+> - Phone Number  
+> - GitHub (if any)  
+> - LinkedIn (if any)  
+> - WhatsApp (optional)  
 > 
-> - Use a clear, well-organized layout.
->     
-> - Start with personal and contact information, followed by summary, projects, education, skills, languages, certificates, and achievements.
->     
-> - Use bullet points for detailed sections and keep the tone formal, concise, and achievement-oriented.
->     
+> **Summary:**  
+> - A 3–5 line summary blending technical expertise and professional goals tailored to the desired job.  
 > 
-> ### 2. Required Sections
+> **Projects:**  
+> - List up to 5 projects. For each, include:  
+>   - Title  
+>   - Type (e.g. academic, personal, internship, team)  
+>   - Date  
+>   - Technologies used  
+>   - Key features, contributions, and outcomes  
 > 
-> **Header:**
+> **Education:**  
+> - Degree  
+> - University  
+> - Years  
+> - GPA (if available)  
+> - Bullet list of relevant coursework  
 > 
-> - Full Name
->     
-> - Email
->     
-> - Location (City, Country)
->     
-> - Phone Number
->     
-> - GitHub (if any)
->     
-> - LinkedIn (if any)
->     
-> - WhatsApp (optional)
->     
+> **Skills:** Organize into clear categories:  
+> - Programming Languages  
+> - Frameworks  
+> - Web Technologies  
+> - Databases  
+> - Tools  
+> - Business/Analytical Skills  
 > 
-> **Summary:**
+> **Languages:**  
+> - List languages with reading/writing/speaking proficiency levels  
 > 
-> - A 3–5 line summary blending technical expertise and professional goals tailored to the desired job.
->     
+> **Certificates:**  
+> - Course name, provider, duration, and key skills gained  
 > 
-> **Projects:**
+> **Academic Achievements:**  
+> - GPA recognition, academic awards, key milestones, or relevant internships  
 > 
-> - List up to 5 projects. For each, include:
->     
->     - Title
->         
->     - Type (e.g. academic, personal, internship, team)
->         
->     - Date
->         
->     - Technologies used
->         
->     - Key features, contributions, and outcomes
->         
+> ### 3. Tailoring Instructions  
+> - Tailor each section to reflect strengths that match the job description.  
+> - Emphasize projects and skills directly relevant to the job requirements.  
 > 
-> **Education:**
+> ### 4. Output Format  
+> - Return the CV in structured plain text with clear section headings.  
+> - Format the result to be copy-paste ready for Word or PDF conversion.  
 > 
-> - Degree
->     
-> - University
->     
-> - Years
->     
-> - GPA (if available)
->     
-> - Bullet list of relevant coursework
->     
-> 
-> **Skills:** Organize into clear categories:
-> 
-> - Programming Languages
->     
-> - Frameworks
->     
-> - Web Technologies
->     
-> - Databases
->     
-> - Tools
->     
-> - Business/Analytical Skills
->     
-> 
-> **Languages:**
-> 
-> - List languages with reading/writing/speaking proficiency levels
->     
-> 
-> **Certificates:**
-> 
-> - Course name, provider, duration, and key skills gained
->     
-> 
-> **Academic Achievements:**
-> 
-> - GPA recognition, academic awards, key milestones, or relevant internships
->     
-> 
-> ### 3. Tailoring Instructions
-> 
-> - Tailor each section to reflect strengths that match the job description.
->     
-> - Emphasize projects and skills directly relevant to the job requirements.
->     
-> 
-> ### 4. Output Format
-> 
-> - Return the CV in structured plain text with clear section headings.
->     
-> - Format the result to be copy-paste ready for Word or PDF conversion.
->     
-> 
-> ### Ask the User for:
-> 
-> - The **job description**
->     
-> - A **previous CV** or résumé (if available)
->     
-> - Any **new information** or updates for each section
->     
-> - Clarify anything that’s missing before generating the final result
->     
+> ### Ask the User for:  
+> - The **job description**  
+> - A **previous CV** or résumé (if available)  
+> - Any **new information** or updates for each section  
+> - Clarify anything that’s missing before generating the final result  
+
 
 
 📌 **اقرأ الـ prompt كويس وعدله لو محتاج تضيف حاجات أو تغيّر على حسب تخصصك.**
@@ -164,13 +102,9 @@
 ### 🛠 **الخطوة 3: عدّل على نفس الـ Document في FlowCV**
 
 - بعد ما ChatGPT يرجعلك النسخة المنظمة:
-    
     - ارجع لـ FlowCV وعدّل على **نفس الـ CV** اللي بدأت عليه.
-        
     - ما تعملش Document جديد، لأن الحساب المجاني مش بيسمح بأكتر من CV واحد.
-        
     - خليك على نفس الشكل والتصميم.
-        
 
 ---
 
@@ -179,24 +113,17 @@
 علشان تتأكد إن الـ CV بتاعك هيعدي الفلترة بتاعة الشركات:
 
 - استخدم موقع [Jobscan.co](https://www.jobscan.co/)
-    
 - هتدخل:
-    
-    - نسخة الـ CV
-        
+    - نسخة الـ CV  
     - Job description للوظيفة اللي بتقدم عليها
-        
 - هتاخد Score + نقاط التحسين
-    
 
 🧠 لو الـ Score مش عالي؟ استخدم الـ prompt ده مع ChatGPT:
 
----
 
 #### 🧪 **Professional ATS-Based CV Review Prompt**
 
-### Professional ATS-Based CV Review (100-Point System)
-
+> ### Professional ATS-Based CV Review (100-Point System)
 > **Prompt:**
 > 
 > I want you to review and rate a CV with the precision of an Applicant Tracking System (ATS) and the insight of a senior recruiter.  
@@ -327,18 +254,18 @@
 > ---
 > Be objective, detailed, and recruitment-industry accurate. Provide actionable suggestions to make the CV both **ATS-optimized and recruiter-ready**.
 
+
 ---
 
 ### 🏁 **الخطوة 5: كرر التحسين لحد ما توصل لـ +90 Score**
 
 - ممكن توصل للـ 100/100 لو زبطت الـ keywords والتفاصيل كلها مظبوطة على الـ job description.
-    
 - كل ما تعدل، اعمل اختبار تاني لحد ما تبقى مطمن إن CVك ممتاز ومنافس.
-    
 
 ---
 
-## ✅ ملخص سريع:
+## ✅ ملخص سريع
+<div dir="rtl">
 
 |الخطوة|الهدف|
 |---|---|
@@ -347,5 +274,5 @@
 |3. Edit|عدل على نفس الـ document|
 |4. Jobscan|اختبار توافق مع الـ ATS|
 |5. تحسين مستمر|وصل الـ score لـ +90|
+<div/>
 
----
