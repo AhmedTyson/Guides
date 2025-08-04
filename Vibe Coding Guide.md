@@ -34,9 +34,9 @@
 
 ----
 
-## 💡 *Vibe Coding Guide*
+## 💡 *Vibe Coding Guide - To Create Frontend Project*
 
-📘 [About the Guide](https://github.com/AhmedTyson/Guides/blob/main/Project-Frontend-vibecoding-Guide.md)
+### 📘 [About the Guide - To Create Frontend Project](https://github.com/AhmedTyson/Guides/blob/main/Project-Frontend-vibecoding-Guide.md)
 
 الـ **Vibe Coding Guide** معمول مخصوص للناس اللي:
 
@@ -88,9 +88,11 @@
 - ✅ أسرع بنسبة **55٪**.
 - ✅ إنتاجية أعلى بنسبة **26٪**.
 
+
 ⚠️ **تحذير:**  
 مش مناسب للمشاريع الكبيرة أو الـ Production المعتمد على معايير حساسة.  
 ↪ ممكن يطلع كود فيه *Bugs / Vulnerabilities* لو مش فاهم إنت بتعمل إيه.
+
 ---
 # 🛠 Tools You Can Use
 
