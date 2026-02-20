@@ -1,13 +1,19 @@
-# Guides
+# <img src="https://api.iconify.design/lucide:library.svg?color=%238A2BE2" width="32" height="32" align="center" /> Knowledge Library
 
-> A curated, living library of technical guides covering Git/GitHub workflows, frontend development methodology, and AI-assisted development practices.
+> **A curated, living collection of technical guides and methodologies.**
+> Structured workflows for Git, Frontend architecture, and AI-augmented development.
 
-![Markdown](https://img.shields.io/badge/Format-Markdown_&_HTML-lightgrey?style=for-the-badge&logo=markdown)
-![Status](https://img.shields.io/badge/Status-Actively_Updated-brightgreen?style=for-the-badge)
+<div align="center">
+
+| Status     | Category                                                                                            | Methodology          | Reliability                                                                        |
+| :--------- | :-------------------------------------------------------------------------------------------------- | :------------------- | :--------------------------------------------------------------------------------- |
+| `ACTV-UPD` | ![Markdown](https://img.shields.io/badge/Format-Markdown-lightgrey?style=flat-square&logo=markdown) | `Technical Standard` | ![Verified](https://img.shields.io/badge/Status-Verified-8A2BE2?style=flat-square) |
+
+</div>
 
 ---
 
-## 📋 Table of Contents
+## <img src="https://api.iconify.design/lucide:list.svg?color=%238A2BE2" width="20" height="20" align="center" /> Table of Contents
 
 - [Overview](#overview)
 - [Guides](#-guides)
@@ -28,7 +34,9 @@ Content spans three domains: **version control** (Git/GitHub), **frontend develo
 
 ---
 
-## 📚 Guides
+---
+
+## <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="20" height="20" align="center" /> Guides
 
 ### 1. Git & GitHub Roadmap
 
@@ -78,7 +86,9 @@ Tips and structure for crafting a strong technical resume as a developer: what t
 
 ---
 
-## 📁 Project Structure
+---
+
+## <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%238A2BE2" width="20" height="20" align="center" /> Project Structure
 
 ```
 Guides/
@@ -94,7 +104,9 @@ Guides/
 
 ---
 
-## 🚀 Usage
+---
+
+## <img src="https://api.iconify.design/lucide:terminal.svg?color=%238A2BE2" width="20" height="20" align="center" /> Usage
 
 ### Read Markdown Guides
 
